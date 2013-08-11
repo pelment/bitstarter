@@ -140,7 +140,7 @@
       <div class="span12">
 	<p class="lead"> Make your favourite accords be always available </p>
       </div>
-    </div>
+    </div
     <div class="row-fluid pitch">
       <div class="span5 offset1 video">
 	<img class="img-polaroid" src="http://i064.radikal.ru/1307/f9/f5c0bed8dc82.jpg">
@@ -149,6 +149,7 @@
       <div class="span5 actions">
 	<div class="span8 offset2">
 	  <div class="statistics">
+	    <p></p>
 	    <div class="span4">
 	      <div class="linediv-l">
 		<h3>0</h3> <p>backers</p>
